@@ -1,5 +1,5 @@
 {
-  "name": "serverless-bundle",
+  "name": "@myadbox/serverless-bundle",
   "version": "5.4.0",
   "description": "An extension of the serverless-webpack plugin that bundles your ES6 + TypeScript Node.js Lambda functions.",
   "main": "index.js",
